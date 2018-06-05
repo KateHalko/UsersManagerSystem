@@ -1,6 +1,9 @@
 # UsersManagerSystem
+
 Connection to db (SQLite), login/registration system. 
+
 REQUIREMENTS
+
 1. Domain information stored in the database. 
 2. Use one of the ORM system (Hibernate, MyBatis, etc.).
 3. Implement the functionality offered in the document of a particular problem.
